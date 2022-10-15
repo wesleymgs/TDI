@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/16 14:12:33.000.759,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 14:23:27.000.851,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/29 13:36:04.000.946,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/21 13:30:55.000.764,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/31 23:23:55.000.517,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/21 23:42:26.000.018,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/08 14:34:36.000.559,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/01 15:39:43.000.528,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/20 15:07:27.000.531,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/15 10:36:27.000.558,=C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/15 10:39:27.000.921,C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\TDI\UFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/10/15 10:39:27.000.921,C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\TDI\UFrmPrincipal.pas</Transaction>
+    <Transaction>2022/10/15 10:39:36.000.333,C:\Users\Wesley\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\TDI\TDI.dproj</Transaction>
+    <Transaction>2022/10/15 10:54:05.000.110,=C:\TDI\Unit1.pas</Transaction>
+    <Transaction>2022/10/15 10:54:15.000.466,C:\TDI\Unit1.pas=C:\TDI\UTDI.pas</Transaction>
+    <Transaction>2022/10/15 11:32:17.000.244,=C:\TDI\Unit1.pas</Transaction>
+    <Transaction>2022/10/15 12:02:22.000.431,=C:\TDI\Unit1.pas</Transaction>
+    <Transaction>2022/10/15 12:02:48.000.672,C:\TDI\Unit1.pas=C:\TDI\UFrmClientes.pas</Transaction>
+    <Transaction>2022/10/15 12:02:48.000.672,C:\TDI\Unit1.dfm=C:\TDI\UFrmClientes.dfm</Transaction>
+    <Transaction>2022/10/15 12:56:35.973,=C:\TDI\Unit1.pas</Transaction>
+    <Transaction>2022/10/15 12:57:12.123,C:\TDI\UFrmFornecedores.pas=C:\TDI\Unit1.pas</Transaction>
+    <Transaction>2022/10/15 12:57:12.123,C:\TDI\UFrmFornecedores.dfm=C:\TDI\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
